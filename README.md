@@ -219,14 +219,7 @@ This project demonstrates:
 
 ## Author
 
-**Ben Designer**
-
-College Freshman Project – AI Bias Auditing Tool using Python and Fairlearn.
-
+**Udish Srivastava**
 ---
 
-## License
 
-This project is licensed under the MIT License.
-
-Feel free to use, modify, and improve it for educational and research purposes.
